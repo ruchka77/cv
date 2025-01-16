@@ -139,8 +139,8 @@ li:not(.footer-bar li, .nav-bar li)::before{
 @media screen and (max-width: 956px) and (-webkit-min-device-pixel-ratio: 3) and (device-width: 393px) {
 
   #image {
-    height: 80px !important;
-    width: 85px !important;
+    height: 100px !important;
+    width: 105px !important;
     object-fit: cover;
   }
 
@@ -149,8 +149,6 @@ li:not(.footer-bar li, .nav-bar li)::before{
   }
   
   .footer-bar {
-    display: flex;
-    justify-content: center;
     gap: 5px;
   }
 
