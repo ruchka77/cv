@@ -145,6 +145,7 @@ li:not(.footer-bar li, .nav-bar li)::before{
   }
   .nav-bar a {
     font-size: 13px !important;
+    gap:1px !important;
   }
   .address {
    font-size: 18px !important;
