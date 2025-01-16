@@ -144,7 +144,7 @@ li:not(.footer-bar li, .nav-bar li)::before{
     object-fit: cover;
   }
   .nav-bar a {
-    font-size: 13px ;
+    font-size: 13px !important;
   }
   .address {
    font-size: 18px !important;
