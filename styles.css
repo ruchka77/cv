@@ -134,3 +134,13 @@ li:not(.footer-bar li, .nav-bar li)::before{
   text-decoration: none !important;
   color: white !important;
 }
+@media screen and (max-width: 768px) {
+ #image {
+  height: 150px;
+  width: 155px;
+  object-fit: cover;
+}
+.nav-bar a {
+  font-size: 18px;
+}
+}
