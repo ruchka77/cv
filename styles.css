@@ -139,8 +139,8 @@ li:not(.footer-bar li, .nav-bar li)::before{
 @media screen and (max-width: 956px) and (-webkit-min-device-pixel-ratio: 3) and (device-width: 393px) {
 
   #image {
-    height: 100px ;
-    width: 105px ;
+    height: 120px ;
+    width: 125px ;
     object-fit: cover;
   }
 
@@ -153,6 +153,7 @@ li:not(.footer-bar li, .nav-bar li)::before{
   }
 
   .address {
-   font-size: 20px;
+   font-size: 18px;
   }
+  
 }
