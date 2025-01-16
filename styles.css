@@ -166,7 +166,7 @@ li:not(.footer-bar li, .nav-bar li)::before{
    font-size: 16px !important;
   } 
 }
-@media screen and (min-resolution: 192dpi) {
+@media screen and (min-resolution: 2dppx) {
    #image {
     height: 100px !important;
     width: 105px !important;
