@@ -136,7 +136,7 @@ li:not(.footer-bar li, .nav-bar li)::before{
 }
 
 
-@media screen and (max-height: 932px) and (max-width: 430px) {
+@media screen and (max-height: 932px) and (max-width: 430px) and (-webkit-min-device-pixel-ratio: 2){
 
   #image {
     height: 120px !important;
