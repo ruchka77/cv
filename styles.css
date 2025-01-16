@@ -166,3 +166,17 @@ li:not(.footer-bar li, .nav-bar li)::before{
    font-size: 16px !important;
   } 
 }
+@media screen and (min-resolution: 192dpi) {
+   #image {
+    height: 100px !important;
+    width: 105px !important;
+    object-fit: cover;
+  }
+  .nav-bar a {
+    font-size: 13px !important;
+    gap:1px !important;
+  }
+  .address {
+   font-size: 16px !important;
+  } 
+}
