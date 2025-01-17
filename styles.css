@@ -118,7 +118,7 @@ div {
   height: 35px;
 }
 .footer-bar img {
-  animation: dropIn 1.5s ease 2s 1;
+  animation: dropIn 1.5s ease 2.5s 1;
 }
 
 @keyframes dropIn {
