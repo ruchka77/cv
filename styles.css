@@ -137,7 +137,13 @@ li:not(.footer-bar li, .nav-bar li)::before{
 
 
 @media screen and (max-width: 545px)  {
-
+  
+   #image {
+    height: 120px !important;
+    width: 125px !important;
+    object-fit: cover;
+  }
+  
   .nav-bar a {
     font-size: 13px !important;
     gap:1px !important;
