@@ -136,7 +136,7 @@ li:not(.footer-bar li, .nav-bar li)::before{
 }
 
 
-@media screen and (max-width: 430px) and (min-resolution: 2dppx) {
+@media screen and (max-width: 435px) and (min-resolution: 2dppx) {
 
   #image {
     height: 120px !important;
@@ -152,17 +152,4 @@ li:not(.footer-bar li, .nav-bar li)::before{
   } 
 }
 
-@media screen and (max-width: 430px) {
-    #image {
-    height: 100px !important;
-    width: 105px !important;
-    object-fit: cover;
-  }
-  .nav-bar a {
-    font-size: 13px !important;
-    gap:1px !important;
-  }
-  .address {
-   font-size: 16px !important;
-  } 
-}
+
